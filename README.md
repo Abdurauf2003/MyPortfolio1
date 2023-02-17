@@ -1,2 +1,1 @@
-# MaktabSaytiLoyihasi
-Maktablar saytini shakllantirish uchun boshlang'ich shablon
+# Portfolio | version-1 | 2020
